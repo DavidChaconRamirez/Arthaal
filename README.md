@@ -1,6 +1,7 @@
 # Arthaal
 # Proyecto Videojuegos 1 Universidad Europea de Madrid
 # Videojuego estilo Point and click
+
 El juego carece en realidad de una historia sólida. Aunque hay 
 diversos enemigos y npcs con secuencias de diálogo, no hay historias 
 entrelazadas entre niveles; más allá de obtener una recompensa por parte 
@@ -17,12 +18,13 @@ malvados. Exclusivamente puede llevar uno de ellos al frente, por lo que
 se deberá elegir con cautela antes de adentrase en una misión.
 Cada misión es un escenario diferente con una temática distinta, 
 aunque podemos encontrarnos con viejos conocidos en alguna que otra 
-#ocasión.
+ocasión.
+
 Existen cuatro clases inamovibles de personajes jugables (todos 
 encajarán dentro de una u otra categoría) para incluir en el equipo del 
 jugador: Pícaro (personaje de daño físico a melee), Berserker 
 (“frontline” con buenas defensas), Boticario (sana y aplica efectos de 
-#estado) y Mago (personaje de daño a distancia). 
+estado) y Mago (personaje de daño a distancia). 
 Cada clase está especializada en una cosa, ya sea absorber daño, 
 curar a los aliados o aplicar efectos de estado a los enemigos, poder 
 ejecutar a poca vida, o infligir una gran cantidad de daño mágico; pero a 
