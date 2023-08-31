@@ -1,6 +1,7 @@
 # Arthaal
 # Proyecto Videojuegos 1 Universidad Europea de Madrid
-# Videojuego estilo Point and click
+
+Videojuego estilo Point and click
 
 El juego carece en realidad de una historia sólida. Aunque hay 
 diversos enemigos y npcs con secuencias de diálogo, no hay historias 
