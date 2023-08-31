@@ -33,4 +33,5 @@ su vez, estos tienen sus propias debilidades. Por el momento, solo el
 Berserker está disponible… a o ser que… “easter egg”.
 
 Enlace del ejecutable:
+
 https://drive.google.com/drive/folders/13iupIJNJj_iGDSCgjK_ZP2uBL5znY1KC?usp=sharing
